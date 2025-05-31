@@ -1,0 +1,31 @@
+{
+      "invoiceNumber": "INV-123",
+      "invoiceDate": "2025-05-29",
+      "seller": {
+        "Name": "Tech Solutions Inc.",
+        "Address": "777 Innovation Plaza"
+      },
+      "buyer": {
+        "Name": "Global Corp",
+        "Address": "888 World HQ"
+      },
+      "lineItems": [
+        {
+          "description": "Laptop",
+          "quantity": 2,
+          "unitPrice": 1200.00,
+          "amount": 2400.00,
+          "tax": 200.00
+        },
+        {
+          "description": "Mouse",
+          "quantity": 5,
+          "unitPrice": 25.00,
+          "amount": 125.00,
+          "tax": 10.00
+        }
+      ],
+      "totalAmount": 2735.00,
+      "currency": "USD",
+      "extraField": "someValue"
+    }

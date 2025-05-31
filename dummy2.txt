@@ -1,0 +1,34 @@
+--------------------------------------------------
+                       INVOICE
+--------------------------------------------------
+
+Invoice Number: INV-2025-001
+Invoice Date: 2025-05-29
+
+Seller/Vendor:
+  Name: Acme Corp
+  Address: 123 Main Street, Anytown, USA 12345
+  Tax ID: US123456789
+
+Buyer/Customer:
+  Name: Beta Industries
+  Address: 456 Oak Avenue, Someville, USA 67890
+  Tax ID: US987654321
+
+-------------------- LINE ITEMS -------------------
+Description             Quantity    Unit Price    Amount      Tax
+--------------------------------------------------
+Widget A                10          10.00         100.00      8.00
+Gadget B                5           25.00         125.00      10.00
+Service C (Hourly)      2           50.00         100.00      0.00
+--------------------------------------------------
+
+---------------------- TOTALS ----------------------
+Subtotal:              325.00
+Discount:              15.00
+Total Tax Amount:      18.00
+Shipping/Handling:     5.00
+--------------------------------------------------
+Total Amount Due:      333.00
+Currency:              USD
+--------------------------------------------------
