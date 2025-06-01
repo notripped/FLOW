@@ -22,7 +22,8 @@ This project demonstrates an intelligent agent-based system designed to classify
 
 ## 📂 Project Structure
 
-![Project Structure](C:\Users\ravik\OneDrive\Pictures\Screenshots\Screenshot 2025-06-01 190315.png)
+![Screenshot 2025-06-01 190315](https://github.com/user-attachments/assets/bb90ba31-771d-4f15-8ee0-7d0c8323667c)
+
 
 # Tech Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
