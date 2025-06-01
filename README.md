@@ -22,21 +22,7 @@ This project demonstrates an intelligent agent-based system designed to classify
 
 ## 📂 Project Structure
 
-' ' ' ' ' 
-.
-├── main.py                     # Main entry point for the application
-├── memory.py                   # Implements the SharedMemory class
-└── agents/                     # Directory containing all specialized agents
-├── init.py             # Makes 'agents' a Python package
-├── classifier_agent.py     # Handles input classification and routing
-├── email_agent.py          # Processes email content containing invoices
-├── invoice_processing_agent.py # Processes plain text invoices
-└── json_agent.py           # Processes JSON invoice payloads
-├── .env.example                # Example file for environment variables (e.g., API keys)
-├── dummyplain.txt              # Example plain text invoice file
-├── dummyjson.txt               # Example JSON invoice file
-└── dummyemail.txt              # Example email with invoice content
-' ' ' ' '
+![Project Structure](C:\Users\ravik\OneDrive\Pictures\Screenshots\Screenshot 2025-06-01 190315.png)
 
 # Tech Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
