@@ -22,7 +22,7 @@ This project demonstrates an intelligent agent-based system designed to classify
 
 ## 📂 Project Structure
 
-'''''
+' ' ' ' ' 
 .
 ├── main.py                     # Main entry point for the application
 ├── memory.py                   # Implements the SharedMemory class
@@ -36,7 +36,7 @@ This project demonstrates an intelligent agent-based system designed to classify
 ├── dummyplain.txt              # Example plain text invoice file
 ├── dummyjson.txt               # Example JSON invoice file
 └── dummyemail.txt              # Example email with invoice content
-'''''
+' ' ' ' '
 
 # Tech Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
