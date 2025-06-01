@@ -37,7 +37,9 @@ This project demonstrates an intelligent agent-based system designed to classify
 ├── dummyjson.txt               # Example JSON invoice file
 └── dummyemail.txt              # Example email with invoice content
 
-
+# Tech Stacks
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Gemini LLM](https://img.shields.io/badge/Gemini-3670A0?style=plastic&logo=Gemini&logoColor=ff0000)
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
