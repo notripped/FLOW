@@ -1,0 +1,4 @@
+google-generativeai==0.8.0 # Or the latest stable version you are using
+python-dotenv==1.0.0      # Or the latest stable version
+spacy==3.7.4              # Include if you might use NLP; adjust version as needed
+pip=25.1.1
